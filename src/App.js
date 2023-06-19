@@ -37,7 +37,7 @@ function App() {
         DELETE
       </button>
       {items.map((item, index) => {
-        return <div key={index}>{index}</div>;
+        return <div key={index}>{"Selmic"}🌸</div>;
       })}
     </div>
   );
